@@ -49,13 +49,10 @@ The Cloth Management System is a comprehensive solution tailored to the needs of
 
 - [Sai Krishna](https://github.com/saikrishnaz)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Support
 
-For any inquiries or issues, please contact [support@example.com](mailto:support@example.com).
+For any inquiries or issues, please contact [itss.saikrishnaz@gmail.com](itss.saikrishnaz@gmail.com).
+For any inquiries or issues, please contact [7000863437](+917000863437).
 
 ---
 
