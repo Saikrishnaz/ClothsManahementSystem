@@ -45,6 +45,11 @@ The Cloth Management System is a comprehensive solution tailored to the needs of
 3. Perform various tasks such as adding new cloth items, recording sales transactions, managing customer profiles, and generating reports.
 4. Explore the features and functionalities of the Cloth Management System to effectively manage your clothing store operations.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+
+
 ## Contributors
 
 - [Sai Krishna](https://github.com/saikrishnaz)
