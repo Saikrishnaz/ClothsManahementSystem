@@ -51,8 +51,7 @@ The Cloth Management System is a comprehensive solution tailored to the needs of
 
 ## Support
 
-For any inquiries or issues, please contact [itss.saikrishnaz@gmail.com](itss.saikrishnaz@gmail.com).
-For any inquiries or issues, please contact [7000863437](+917000863437).
+For any inquiries or issues, please contact [itss.saikrishnaz@gmail.com](mailto:itss.saikrishnaz@gmail.com).
 
 ---
 
